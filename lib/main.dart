@@ -20,10 +20,10 @@ class TheMarket extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         // This is the theme of the application.
-        primaryColor: Color(0xFF000000),
-        accentColor: Color(0xFF363636),
-        // primaryColor: Color(0xFF00B8D4),
-        // accentColor: Color(0xFF01AAC4),
+        // primaryColor: Color(0xFF000000),
+        // accentColor: Color(0xFF363636),
+        primaryColor: Color(0xFF00838F),
+        accentColor: Color(0xFF006064),
         fontFamily: "Montserrat",
       ),
       home: Login(),
